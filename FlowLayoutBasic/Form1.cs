@@ -26,6 +26,7 @@ namespace FlowLayoutBasic
                 if (i % 2 == 0) ornekModel.durum = true;
                 MyFlowDoldur(ornekModel);
             }
+
         }
         public void MyFlowDoldur(OrnekModel ornekModel)
         {
